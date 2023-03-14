@@ -3,7 +3,7 @@ pipeline {
     stages {
         stage ('Git Pull') {
             steps {
-                git url: 'https://github.com/budcoded/CalculatorDevOps.git'
+                git url: 'https://github.com/budcoded/CalculatorDevOps.git',
                 branch: 'main'
             }
         }
