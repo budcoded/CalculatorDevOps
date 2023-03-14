@@ -37,24 +37,24 @@ public class Calculator {
                 case 2:
                     // Case 2 -> Factorial Function
                     System.out.print("\nEnter a Number: ");
-                    int factVal = scanner.nextInt();
+                    double factVal = scanner.nextDouble();
                     System.out.println("\nFactorial of " + factVal + " is: " + calculator.factorial(factVal));
                     break;
-//                case 3:
-//                    // Case 3 -> Natural log function
-//                    System.out.print("\nEnter a Number: ");
-//                    int  = scanner.nextDouble();
-//                    System.out.println("\nSquare of " + number1 + " is: " + calculator.square(number1));
-//                    break;
-//                case 4:
-//                    // Subtraction Case
-//                    System.out.print("\nFirst Number: ");
-//                    number1 = scanner.nextDouble();
-//                    System.out.print("\nSecond Number: ");
-//                    number2 = scanner.nextDouble();
-//
-//                    System.out.println("\nSubtraction of " + number2 + " from " + number1 + " is: " + calculator.subtraction(number1, number2));
-//                    break;
+                case 3:
+                    // Case 3 -> Natural log function
+                    System.out.print("\nEnter a Number: ");
+                    double log = scanner.nextDouble();
+                    System.out.println("\nNatural log of " + log + " is: " + calculator.naturalLog(log));
+                    break;
+                case 4:
+                    // Subtraction Case
+                    System.out.print("\nEnter the Number: ");
+                    double num1 = scanner.nextDouble();
+                    System.out.print("\nEnter the Power: ");
+                    double num2 = scanner.nextDouble();
+
+                    System.out.println("\n" + num1 + " power " + num2 + " is: " + calculator.power(num1, num2));
+                    break;
                 default:
                     System.out.println("Exiting the Calculator!!!!!");
                     return;
@@ -62,33 +62,26 @@ public class Calculator {
         } while (true);
     }
 
-    private int factorial(int factVal) {
-
-        return factVal;
-    }
-
-    private double squareRoot(double val) {
-        double res = Math.sqrt(val);
+    public double power(double num1, double num2) {
+        double res = Math.pow(num1, num2);
         return res;
     }
 
-    public double subtraction(double number1, double number2) {
-        double result = number1 - number2;
-        return result;
+    public double naturalLog(double log) {
+        double res = Math.log(log);
+        return res;
     }
 
-    public double square(double number1) {
-        double result = number1 * number1;
-        return result;
+    public double factorial(double factVal) {
+        double res = 1;
+        for (int i = 1; i <= (int) factVal; i++) {
+            res *= i;
+        }
+        return res;
     }
 
-    public double cubeRoot(double number1) {
-        double result = Math.cbrt(number1);
-        return result;
-    }
-
-    public double multiplication(double number1, double number2) {
-        double result = number1 * number2;
-        return result;
+    public double squareRoot(double val) {
+        double res = Math.sqrt(val);
+        return res;
     }
 }
