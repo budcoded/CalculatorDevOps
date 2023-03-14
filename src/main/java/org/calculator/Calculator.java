@@ -40,21 +40,21 @@ public class Calculator {
                     int factVal = scanner.nextInt();
                     System.out.println("\nFactorial of " + factVal + " is: " + calculator.factorial(factVal));
                     break;
-                case 3:
-                    // Square Case
-                    System.out.print("\nEnter a Number: ");
-                    number1 = scanner.nextDouble();
-                    System.out.println("\nSquare of " + number1 + " is: " + calculator.square(number1));
-                    break;
-                case 4:
-                    // Subtraction Case
-                    System.out.print("\nFirst Number: ");
-                    number1 = scanner.nextDouble();
-                    System.out.print("\nSecond Number: ");
-                    number2 = scanner.nextDouble();
-
-                    System.out.println("\nSubtraction of " + number2 + " from " + number1 + " is: " + calculator.subtraction(number1, number2));
-                    break;
+//                case 3:
+//                    // Case 3 -> Natural log function
+//                    System.out.print("\nEnter a Number: ");
+//                    int  = scanner.nextDouble();
+//                    System.out.println("\nSquare of " + number1 + " is: " + calculator.square(number1));
+//                    break;
+//                case 4:
+//                    // Subtraction Case
+//                    System.out.print("\nFirst Number: ");
+//                    number1 = scanner.nextDouble();
+//                    System.out.print("\nSecond Number: ");
+//                    number2 = scanner.nextDouble();
+//
+//                    System.out.println("\nSubtraction of " + number2 + " from " + number1 + " is: " + calculator.subtraction(number1, number2));
+//                    break;
                 default:
                     System.out.println("Exiting the Calculator!!!!!");
                     return;
@@ -64,7 +64,7 @@ public class Calculator {
 
     private int factorial(int factVal) {
 
-        return 0;
+        return factVal;
     }
 
     private double squareRoot(double val) {
