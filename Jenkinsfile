@@ -14,7 +14,7 @@ pipeline {
         }
         stage ('Build Docker Images') {
             steps {
-                sh 'docker build -t budcoded/calculator:latest .'
+                sh 'sudo docker build -t budcoded/calculator:latest .'
             }
         }
      }
