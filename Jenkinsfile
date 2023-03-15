@@ -19,7 +19,7 @@ pipeline {
         }
         stage ('Push Docker Image') {
             steps {
-                withDockerRegistry([credentialsId: "budcoded", url: ""]) {
+                withDockerRegistry([credentialsId: "dockerId", url: ""]) {
                     sh 'docker push budcoded/calculator:latest'
                 }
             }
