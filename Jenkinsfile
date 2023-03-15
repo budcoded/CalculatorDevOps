@@ -22,7 +22,7 @@ pipeline {
 //                 withDockerRegistry([credentialsId: "dockerId", url: ""]) {
 //                     sh 'docker push budcoded/calculator:latest'
 //                 }
-                sh 'docker login -u budcoded -p budcodedbudcoded registry.hub.docker.com/'
+                sh 'docker login -u budcoded -p budcodedbudcoded'
                 sh 'docker push budcoded/calculator:latest'
 //                 withCredentials() {
 //                         def registry_url = "registry.hub.docker.com/"
