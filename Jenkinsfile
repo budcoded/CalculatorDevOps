@@ -18,10 +18,8 @@ pipeline {
             }
         }
         stage ('Push Docker Image') {
-            steps {
-                withDockerRegistry([credentialsId: "dockerid", url: ""]) {
-                    sh 'docker push budcoded/calculator:latest'
-                }
+            withDockerRegistry([credentialsId: "budcoded", url: ""]) {
+                sh 'docker push budcoded/calculator:latest'
             }
         }
 //         stage ('Clean Docker Images') {
