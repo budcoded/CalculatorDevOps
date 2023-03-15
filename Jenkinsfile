@@ -25,7 +25,6 @@ pipeline {
         }
         stage('Deploy and Run Image'){
             steps {
-                sh 'export LC_ALL=en_US.UTF-8'
                 sh 'ansible-playbook -i inventory playbook.yml'
             }
         }
