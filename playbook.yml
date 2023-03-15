@@ -11,4 +11,4 @@
       shell: docker pull budcoded/calculator
 
     - name: running container
-      shell: docker create -it --name AjayCalc budcoded/calculator /bin/bash
+      shell: docker create -it --name AjayCalc budcoded/calculator
