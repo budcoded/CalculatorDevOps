@@ -12,10 +12,20 @@ pipeline {
                 sh 'mvn clean install'
             }
         }
-        stage ('Build Docker Images') {
+        stage ('Build Docker Image') {
             steps {
                 sh 'docker build -t budcoded/calculator:latest .'
             }
         }
+        stage ('Push Docker Image') {
+            withDockerRegistry([credentialsId: "budcoded", url: ""]) {
+                sh 'docker push budcoded/calculator:latest'
+            }
+        }
+//         stage ('Clean Docker Images') {
+//             steps {
+//                 sh 'docker rmi -f budcoded/calculator:latest'
+//             }
+//         }
      }
 }
