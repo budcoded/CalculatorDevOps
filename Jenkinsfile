@@ -23,10 +23,5 @@ pipeline {
                 sh 'docker push budcoded/calculator:latest'
             }
         }
-        stage ('Clean Docker Images') {
-            steps {
-                sh 'docker rmi -f budcoded/calculator:latest'
-            }
-        }
      }
 }
