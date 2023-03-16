@@ -2,3 +2,272 @@
 [Time: 13:10 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 26] --> Showing the options to the user.
 [Time: 13:10 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 39] --> User's choice is: 1234
 [Time: 13:10 PM # Date: 16/03/2023] [FATAL] [File: org.calculator.Calculator # Line: 104] --> User is exiting the calculator application.
+[Time: 14:26 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 21] --> Starting the Calculator Application.
+[Time: 14:26 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 26] --> Showing the options to the user.
+[Time: 14:27 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 39] --> User's choice is: 1
+[Time: 14:27 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 50] --> Using square root function...
+[Time: 14:27 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 54] --> User's input for square root: 1234.0
+[Time: 14:27 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 136] --> Calculating square root of 1234.0.
+[Time: 14:27 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 138] --> Result: 1234.0^0.5 = 35.12833614050059.
+[Time: 14:27 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 26] --> Showing the options to the user.
+[Time: 14:27 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 39] --> User's choice is: 2
+[Time: 14:27 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 63] --> Using the factorial function...
+[Time: 14:27 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 67] --> User's input for factorial: 12.0
+[Time: 14:27 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 126] --> Calculating 12.0! [! mean factorial].
+[Time: 14:27 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 131] --> Result: 12.0! = 4.790016E8.
+[Time: 14:27 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 26] --> Showing the options to the user.
+[Time: 14:27 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 39] --> User's choice is: 3
+[Time: 14:27 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 76] --> Using the natural log function...
+[Time: 14:27 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 80] --> User's input for square root: 1234.0
+[Time: 14:27 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 119] --> Calculating log(1234.0).
+[Time: 14:27 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 121] --> Result: log(1234.0) = 7.1180162044653335.
+[Time: 14:27 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 26] --> Showing the options to the user.
+[Time: 14:27 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 39] --> User's choice is: 4
+[Time: 14:27 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 89] --> Using the subtraction function...
+[Time: 14:27 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 93] --> User's input for number: 12.0
+[Time: 14:27 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 96] --> User's input for power: 12.0
+[Time: 14:27 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 112] --> Calculating 12.0^12.0.
+[Time: 14:27 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 114] --> Result: 12.0^12.0 = 8.916100448256E12.
+[Time: 14:27 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 26] --> Showing the options to the user.
+[Time: 14:27 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 39] --> User's choice is: 55
+[Time: 14:27 PM # Date: 16/03/2023] [FATAL] [File: org.calculator.Calculator # Line: 104] --> User is exiting the calculator application.
+[Time: 14:28 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 126] --> Calculating 1.0! [! mean factorial].
+[Time: 14:28 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 131] --> Result: 1.0! = 1.0.
+[Time: 14:28 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 126] --> Calculating 2.0! [! mean factorial].
+[Time: 14:28 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 131] --> Result: 2.0! = 2.0.
+[Time: 14:28 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 126] --> Calculating 3.0! [! mean factorial].
+[Time: 14:28 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 131] --> Result: 3.0! = 6.0.
+[Time: 14:28 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 126] --> Calculating 4.0! [! mean factorial].
+[Time: 14:28 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 131] --> Result: 4.0! = 24.0.
+[Time: 14:28 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 126] --> Calculating 5.0! [! mean factorial].
+[Time: 14:28 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 131] --> Result: 5.0! = 120.0.
+[Time: 14:28 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 136] --> Calculating square root of 16.0.
+[Time: 14:28 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 138] --> Result: 16.0^0.5 = 4.0.
+[Time: 14:28 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 136] --> Calculating square root of 4.0.
+[Time: 14:28 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 138] --> Result: 4.0^0.5 = 2.0.
+[Time: 14:28 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 136] --> Calculating square root of 9.0.
+[Time: 14:28 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 138] --> Result: 9.0^0.5 = 3.0.
+[Time: 14:28 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 136] --> Calculating square root of 25.0.
+[Time: 14:28 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 138] --> Result: 25.0^0.5 = 5.0.
+[Time: 14:28 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 136] --> Calculating square root of 36.0.
+[Time: 14:28 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 138] --> Result: 36.0^0.5 = 6.0.
+[Time: 14:28 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 119] --> Calculating log(2.0).
+[Time: 14:28 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 121] --> Result: log(2.0) = 0.6931471805599453.
+[Time: 14:28 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 119] --> Calculating log(3.0).
+[Time: 14:28 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 121] --> Result: log(3.0) = 1.0986122886681098.
+[Time: 14:28 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 119] --> Calculating log(4.0).
+[Time: 14:28 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 121] --> Result: log(4.0) = 1.3862943611198906.
+[Time: 14:28 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 119] --> Calculating log(5.0).
+[Time: 14:28 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 121] --> Result: log(5.0) = 1.6094379124341003.
+[Time: 14:28 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 119] --> Calculating log(6.0).
+[Time: 14:28 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 121] --> Result: log(6.0) = 1.791759469228055.
+[Time: 14:28 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 136] --> Calculating square root of 16.0.
+[Time: 14:28 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 138] --> Result: 16.0^0.5 = 4.0.
+[Time: 14:28 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 136] --> Calculating square root of 4.0.
+[Time: 14:28 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 138] --> Result: 4.0^0.5 = 2.0.
+[Time: 14:28 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 136] --> Calculating square root of 9.0.
+[Time: 14:28 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 138] --> Result: 9.0^0.5 = 3.0.
+[Time: 14:28 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 136] --> Calculating square root of 25.0.
+[Time: 14:28 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 138] --> Result: 25.0^0.5 = 5.0.
+[Time: 14:28 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 136] --> Calculating square root of 36.0.
+[Time: 14:28 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 138] --> Result: 36.0^0.5 = 6.0.
+[Time: 14:28 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 119] --> Calculating log(2.0).
+[Time: 14:28 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 121] --> Result: log(2.0) = 0.6931471805599453.
+[Time: 14:28 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 119] --> Calculating log(3.0).
+[Time: 14:28 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 121] --> Result: log(3.0) = 1.0986122886681098.
+[Time: 14:28 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 119] --> Calculating log(4.0).
+[Time: 14:28 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 121] --> Result: log(4.0) = 1.3862943611198906.
+[Time: 14:28 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 119] --> Calculating log(5.0).
+[Time: 14:28 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 121] --> Result: log(5.0) = 1.6094379124341003.
+[Time: 14:28 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 119] --> Calculating log(6.0).
+[Time: 14:28 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 121] --> Result: log(6.0) = 1.791759469228055.
+[Time: 14:28 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 126] --> Calculating 1.0! [! mean factorial].
+[Time: 14:28 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 131] --> Result: 1.0! = 1.0.
+[Time: 14:28 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 126] --> Calculating 2.0! [! mean factorial].
+[Time: 14:28 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 131] --> Result: 2.0! = 2.0.
+[Time: 14:28 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 126] --> Calculating 3.0! [! mean factorial].
+[Time: 14:28 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 131] --> Result: 3.0! = 6.0.
+[Time: 14:28 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 126] --> Calculating 4.0! [! mean factorial].
+[Time: 14:28 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 131] --> Result: 4.0! = 24.0.
+[Time: 14:28 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 126] --> Calculating 5.0! [! mean factorial].
+[Time: 14:28 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 131] --> Result: 5.0! = 120.0.
+[Time: 14:28 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 112] --> Calculating 1.0^2.0.
+[Time: 14:28 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 114] --> Result: 1.0^2.0 = 1.0.
+[Time: 14:28 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 112] --> Calculating 2.0^2.0.
+[Time: 14:28 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 114] --> Result: 2.0^2.0 = 4.0.
+[Time: 14:28 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 112] --> Calculating 3.0^2.0.
+[Time: 14:28 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 114] --> Result: 3.0^2.0 = 9.0.
+[Time: 14:28 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 112] --> Calculating 4.0^2.0.
+[Time: 14:28 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 114] --> Result: 4.0^2.0 = 16.0.
+[Time: 14:28 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 112] --> Calculating 5.0^2.0.
+[Time: 14:28 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 114] --> Result: 5.0^2.0 = 25.0.
+[Time: 14:28 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 112] --> Calculating 1.0^2.0.
+[Time: 14:28 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 114] --> Result: 1.0^2.0 = 1.0.
+[Time: 14:28 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 112] --> Calculating 2.0^2.0.
+[Time: 14:28 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 114] --> Result: 2.0^2.0 = 4.0.
+[Time: 14:28 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 112] --> Calculating 3.0^2.0.
+[Time: 14:28 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 114] --> Result: 3.0^2.0 = 9.0.
+[Time: 14:28 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 112] --> Calculating 4.0^2.0.
+[Time: 14:28 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 114] --> Result: 4.0^2.0 = 16.0.
+[Time: 14:28 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 112] --> Calculating 5.0^2.0.
+[Time: 14:28 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 114] --> Result: 5.0^2.0 = 25.0.
+[Time: 14:44 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 126] --> Calculating 1.0! [! mean factorial].
+[Time: 14:44 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 131] --> Result: 1.0! = 1.0.
+[Time: 14:44 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 126] --> Calculating 2.0! [! mean factorial].
+[Time: 14:44 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 131] --> Result: 2.0! = 2.0.
+[Time: 14:44 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 126] --> Calculating 3.0! [! mean factorial].
+[Time: 14:44 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 131] --> Result: 3.0! = 6.0.
+[Time: 14:44 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 126] --> Calculating 4.0! [! mean factorial].
+[Time: 14:44 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 131] --> Result: 4.0! = 24.0.
+[Time: 14:44 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 126] --> Calculating 5.0! [! mean factorial].
+[Time: 14:44 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 131] --> Result: 5.0! = 120.0.
+[Time: 14:44 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 136] --> Calculating square root of 16.0.
+[Time: 14:44 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 138] --> Result: 16.0^0.5 = 4.0.
+[Time: 14:44 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 136] --> Calculating square root of 4.0.
+[Time: 14:44 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 138] --> Result: 4.0^0.5 = 2.0.
+[Time: 14:44 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 136] --> Calculating square root of 9.0.
+[Time: 14:44 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 138] --> Result: 9.0^0.5 = 3.0.
+[Time: 14:44 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 136] --> Calculating square root of 25.0.
+[Time: 14:44 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 138] --> Result: 25.0^0.5 = 5.0.
+[Time: 14:44 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 136] --> Calculating square root of 36.0.
+[Time: 14:44 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 138] --> Result: 36.0^0.5 = 6.0.
+[Time: 14:44 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 119] --> Calculating log(2.0).
+[Time: 14:44 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 121] --> Result: log(2.0) = 0.6931471805599453.
+[Time: 14:44 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 119] --> Calculating log(3.0).
+[Time: 14:44 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 121] --> Result: log(3.0) = 1.0986122886681098.
+[Time: 14:44 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 119] --> Calculating log(4.0).
+[Time: 14:44 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 121] --> Result: log(4.0) = 1.3862943611198906.
+[Time: 14:44 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 119] --> Calculating log(5.0).
+[Time: 14:44 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 121] --> Result: log(5.0) = 1.6094379124341003.
+[Time: 14:44 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 119] --> Calculating log(6.0).
+[Time: 14:44 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 121] --> Result: log(6.0) = 1.791759469228055.
+[Time: 14:44 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 136] --> Calculating square root of 16.0.
+[Time: 14:44 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 138] --> Result: 16.0^0.5 = 4.0.
+[Time: 14:44 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 136] --> Calculating square root of 4.0.
+[Time: 14:44 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 138] --> Result: 4.0^0.5 = 2.0.
+[Time: 14:44 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 136] --> Calculating square root of 9.0.
+[Time: 14:44 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 138] --> Result: 9.0^0.5 = 3.0.
+[Time: 14:44 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 136] --> Calculating square root of 25.0.
+[Time: 14:44 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 138] --> Result: 25.0^0.5 = 5.0.
+[Time: 14:44 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 136] --> Calculating square root of 36.0.
+[Time: 14:44 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 138] --> Result: 36.0^0.5 = 6.0.
+[Time: 14:44 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 119] --> Calculating log(2.0).
+[Time: 14:44 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 121] --> Result: log(2.0) = 0.6931471805599453.
+[Time: 14:44 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 119] --> Calculating log(3.0).
+[Time: 14:44 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 121] --> Result: log(3.0) = 1.0986122886681098.
+[Time: 14:44 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 119] --> Calculating log(4.0).
+[Time: 14:44 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 121] --> Result: log(4.0) = 1.3862943611198906.
+[Time: 14:44 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 119] --> Calculating log(5.0).
+[Time: 14:44 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 121] --> Result: log(5.0) = 1.6094379124341003.
+[Time: 14:44 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 119] --> Calculating log(6.0).
+[Time: 14:44 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 121] --> Result: log(6.0) = 1.791759469228055.
+[Time: 14:44 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 126] --> Calculating 1.0! [! mean factorial].
+[Time: 14:44 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 131] --> Result: 1.0! = 1.0.
+[Time: 14:44 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 126] --> Calculating 2.0! [! mean factorial].
+[Time: 14:44 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 131] --> Result: 2.0! = 2.0.
+[Time: 14:44 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 126] --> Calculating 3.0! [! mean factorial].
+[Time: 14:44 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 131] --> Result: 3.0! = 6.0.
+[Time: 14:44 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 126] --> Calculating 4.0! [! mean factorial].
+[Time: 14:44 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 131] --> Result: 4.0! = 24.0.
+[Time: 14:44 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 126] --> Calculating 5.0! [! mean factorial].
+[Time: 14:44 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 131] --> Result: 5.0! = 120.0.
+[Time: 14:44 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 112] --> Calculating 1.0^2.0.
+[Time: 14:44 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 114] --> Result: 1.0^2.0 = 1.0.
+[Time: 14:44 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 112] --> Calculating 2.0^2.0.
+[Time: 14:44 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 114] --> Result: 2.0^2.0 = 4.0.
+[Time: 14:44 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 112] --> Calculating 3.0^2.0.
+[Time: 14:44 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 114] --> Result: 3.0^2.0 = 9.0.
+[Time: 14:44 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 112] --> Calculating 4.0^2.0.
+[Time: 14:44 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 114] --> Result: 4.0^2.0 = 16.0.
+[Time: 14:44 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 112] --> Calculating 5.0^2.0.
+[Time: 14:44 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 114] --> Result: 5.0^2.0 = 25.0.
+[Time: 14:44 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 112] --> Calculating 1.0^2.0.
+[Time: 14:44 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 114] --> Result: 1.0^2.0 = 1.0.
+[Time: 14:44 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 112] --> Calculating 2.0^2.0.
+[Time: 14:44 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 114] --> Result: 2.0^2.0 = 4.0.
+[Time: 14:44 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 112] --> Calculating 3.0^2.0.
+[Time: 14:44 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 114] --> Result: 3.0^2.0 = 9.0.
+[Time: 14:44 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 112] --> Calculating 4.0^2.0.
+[Time: 14:44 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 114] --> Result: 4.0^2.0 = 16.0.
+[Time: 14:44 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 112] --> Calculating 5.0^2.0.
+[Time: 14:44 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 114] --> Result: 5.0^2.0 = 25.0.
+[Time: 15:29 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 126] --> Calculating 1.0! [! mean factorial].
+[Time: 15:29 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 131] --> Result: 1.0! = 1.0.
+[Time: 15:29 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 126] --> Calculating 2.0! [! mean factorial].
+[Time: 15:29 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 131] --> Result: 2.0! = 2.0.
+[Time: 15:29 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 126] --> Calculating 3.0! [! mean factorial].
+[Time: 15:29 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 131] --> Result: 3.0! = 6.0.
+[Time: 15:29 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 126] --> Calculating 4.0! [! mean factorial].
+[Time: 15:29 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 131] --> Result: 4.0! = 24.0.
+[Time: 15:29 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 126] --> Calculating 5.0! [! mean factorial].
+[Time: 15:29 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 131] --> Result: 5.0! = 120.0.
+[Time: 15:29 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 136] --> Calculating square root of 16.0.
+[Time: 15:29 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 138] --> Result: 16.0^0.5 = 4.0.
+[Time: 15:29 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 136] --> Calculating square root of 4.0.
+[Time: 15:29 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 138] --> Result: 4.0^0.5 = 2.0.
+[Time: 15:29 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 136] --> Calculating square root of 9.0.
+[Time: 15:29 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 138] --> Result: 9.0^0.5 = 3.0.
+[Time: 15:29 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 136] --> Calculating square root of 25.0.
+[Time: 15:29 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 138] --> Result: 25.0^0.5 = 5.0.
+[Time: 15:29 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 136] --> Calculating square root of 36.0.
+[Time: 15:29 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 138] --> Result: 36.0^0.5 = 6.0.
+[Time: 15:29 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 119] --> Calculating log(2.0).
+[Time: 15:29 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 121] --> Result: log(2.0) = 0.6931471805599453.
+[Time: 15:29 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 119] --> Calculating log(3.0).
+[Time: 15:29 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 121] --> Result: log(3.0) = 1.0986122886681098.
+[Time: 15:29 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 119] --> Calculating log(4.0).
+[Time: 15:29 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 121] --> Result: log(4.0) = 1.3862943611198906.
+[Time: 15:29 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 119] --> Calculating log(5.0).
+[Time: 15:29 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 121] --> Result: log(5.0) = 1.6094379124341003.
+[Time: 15:29 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 119] --> Calculating log(6.0).
+[Time: 15:29 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 121] --> Result: log(6.0) = 1.791759469228055.
+[Time: 15:29 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 136] --> Calculating square root of 16.0.
+[Time: 15:29 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 138] --> Result: 16.0^0.5 = 4.0.
+[Time: 15:29 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 136] --> Calculating square root of 4.0.
+[Time: 15:29 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 138] --> Result: 4.0^0.5 = 2.0.
+[Time: 15:29 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 136] --> Calculating square root of 9.0.
+[Time: 15:29 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 138] --> Result: 9.0^0.5 = 3.0.
+[Time: 15:29 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 136] --> Calculating square root of 25.0.
+[Time: 15:29 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 138] --> Result: 25.0^0.5 = 5.0.
+[Time: 15:29 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 136] --> Calculating square root of 36.0.
+[Time: 15:29 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 138] --> Result: 36.0^0.5 = 6.0.
+[Time: 15:29 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 119] --> Calculating log(2.0).
+[Time: 15:29 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 121] --> Result: log(2.0) = 0.6931471805599453.
+[Time: 15:29 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 119] --> Calculating log(3.0).
+[Time: 15:29 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 121] --> Result: log(3.0) = 1.0986122886681098.
+[Time: 15:29 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 119] --> Calculating log(4.0).
+[Time: 15:29 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 121] --> Result: log(4.0) = 1.3862943611198906.
+[Time: 15:29 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 119] --> Calculating log(5.0).
+[Time: 15:29 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 121] --> Result: log(5.0) = 1.6094379124341003.
+[Time: 15:29 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 119] --> Calculating log(6.0).
+[Time: 15:29 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 121] --> Result: log(6.0) = 1.791759469228055.
+[Time: 15:29 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 126] --> Calculating 1.0! [! mean factorial].
+[Time: 15:29 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 131] --> Result: 1.0! = 1.0.
+[Time: 15:29 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 126] --> Calculating 2.0! [! mean factorial].
+[Time: 15:29 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 131] --> Result: 2.0! = 2.0.
+[Time: 15:29 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 126] --> Calculating 3.0! [! mean factorial].
+[Time: 15:29 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 131] --> Result: 3.0! = 6.0.
+[Time: 15:29 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 126] --> Calculating 4.0! [! mean factorial].
+[Time: 15:29 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 131] --> Result: 4.0! = 24.0.
+[Time: 15:29 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 126] --> Calculating 5.0! [! mean factorial].
+[Time: 15:29 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 131] --> Result: 5.0! = 120.0.
+[Time: 15:29 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 112] --> Calculating 1.0^2.0.
+[Time: 15:29 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 114] --> Result: 1.0^2.0 = 1.0.
+[Time: 15:29 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 112] --> Calculating 2.0^2.0.
+[Time: 15:29 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 114] --> Result: 2.0^2.0 = 4.0.
+[Time: 15:29 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 112] --> Calculating 3.0^2.0.
+[Time: 15:29 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 114] --> Result: 3.0^2.0 = 9.0.
+[Time: 15:29 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 112] --> Calculating 4.0^2.0.
+[Time: 15:29 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 114] --> Result: 4.0^2.0 = 16.0.
+[Time: 15:29 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 112] --> Calculating 5.0^2.0.
+[Time: 15:29 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 114] --> Result: 5.0^2.0 = 25.0.
+[Time: 15:29 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 112] --> Calculating 1.0^2.0.
+[Time: 15:29 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 114] --> Result: 1.0^2.0 = 1.0.
+[Time: 15:29 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 112] --> Calculating 2.0^2.0.
+[Time: 15:29 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 114] --> Result: 2.0^2.0 = 4.0.
+[Time: 15:29 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 112] --> Calculating 3.0^2.0.
+[Time: 15:29 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 114] --> Result: 3.0^2.0 = 9.0.
+[Time: 15:29 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 112] --> Calculating 4.0^2.0.
+[Time: 15:29 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 114] --> Result: 4.0^2.0 = 16.0.
+[Time: 15:29 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 112] --> Calculating 5.0^2.0.
+[Time: 15:29 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 114] --> Result: 5.0^2.0 = 25.0.
