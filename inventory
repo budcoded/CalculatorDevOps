@@ -1,2 +1,3 @@
 [ajayGroup]
 ajayServer ansible_host=172.16.131.230 ansible_connection=ssh ansible_user=ansible_user ansible_sudo_pass=1234
+kshitijaNode ansible_host=172.16.144.52 ansible_connection=ssh ansible_user=kshitija ansible_sudo_pass=neelshah28
