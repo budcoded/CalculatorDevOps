@@ -1,0 +1,4 @@
+[Time: 13:10 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 21] --> Starting the Calculator Application.
+[Time: 13:10 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 26] --> Showing the options to the user.
+[Time: 13:10 PM # Date: 16/03/2023] [INFO ] [File: org.calculator.Calculator # Line: 39] --> User's choice is: 1234
+[Time: 13:10 PM # Date: 16/03/2023] [FATAL] [File: org.calculator.Calculator # Line: 104] --> User is exiting the calculator application.
