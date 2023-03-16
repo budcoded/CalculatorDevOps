@@ -86,7 +86,7 @@ public class Calculator {
                     break;
                 case 4:
                     // Subtraction Case
-                    logger.info("Using the subtraction function...");
+                    logger.info("Using the power function...");
                     try {
                         System.out.print("\nEnter the Number: ");
                         operand1 = scanner.nextDouble();
