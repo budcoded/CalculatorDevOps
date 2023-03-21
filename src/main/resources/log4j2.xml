@@ -15,21 +15,3 @@
         </Root>
     </Loggers>
 </Configuration>
-<!-- <?xml version="1.0" encoding="UTF-8" ?>
-<Configuration status="INFO">
-    <Appenders>
-        <Console name="ConsoleAppender" target="SYSTEM_OUT">
-            <PatternLayout pattern="%d{HH:mm a} [%t] %-5level %logger{36} - %msg%n"/>
-        </Console>
-        <File name="FileAppender" fileName="application-${date:dd.MM.yyyy}.log" immediateFlush="false" append="true">
-            <PatternLayout pattern="[Time: %d{HH:mm a} # Date: %d{dd/MM/yyyy}] [%-5level] [File: %c # Line: %L] --> %msg%n"/>
-            <PatternLayout pattern="%d{yyy-MM-dd HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n"/>
-        </File>
-    </Appenders>
-    <Loggers>
-        <Root level="debug">
-            <AppenderRef ref="ConsoleAppender"/>
-            <AppenderRef ref="FileAppender"/>
-        </Root>
-    </Loggers>
-</Configuration> -->
