@@ -9,14 +9,6 @@ import java.util.Scanner;
 public class Calculator {
     private static final Logger logger = LogManager.getLogger(Calculator.class);
     public static void main(String[] args) {
-        // Trying Logger's all methods
-//        logger.trace("Greeted the user!");
-//        logger.debug("Greeted the user!");
-//        logger.info("Greeted the user!");
-//        logger.warn("Greeted the user!");
-//        logger.error("Greeted the user!");
-//        logger.fatal("Greeted the user!");
-
         // Starting of calculator work...
         logger.info("Starting the Calculator Application.");
         Calculator calculator = new Calculator();
