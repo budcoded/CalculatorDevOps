@@ -23,7 +23,7 @@
         </Console>
         <File name="FileAppender" fileName="application-${date:dd.MM.yyyy}.log" immediateFlush="false" append="true">
             <PatternLayout pattern="[Time: %d{HH:mm a} # Date: %d{dd/MM/yyyy}] [%-5level] [File: %c # Line: %L] --> %msg%n"/>
-<!--            <PatternLayout pattern="%d{yyy-MM-dd HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n"/>-->
+            <PatternLayout pattern="%d{yyy-MM-dd HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n"/>
         </File>
     </Appenders>
     <Loggers>
