@@ -42,12 +42,17 @@ public class Calculator {
                     System.out.print("\nEnter the Number: ");
                     try {
                         operand1 = scanner.nextDouble();
-                        logger.info("User's input for square root: " + operand1);
+                        if (operand1 <= 0) {
+                            System.err.println("Square root of non-positive number is not applicable.");
+                            logger.error("Non-Positive number added by the user for square root function.");
+                        } else {
+                            logger.info("User's input for square root: " + operand1);
+                            System.out.println("\nSquare root of " + operand1 + " is: " + calculator.squareRoot(operand1));
+                        }
                     } catch (InputMismatchException exception) {
                         logger.error("Exception while taking input: " + exception.getLocalizedMessage());
                         System.err.println(exception.getLocalizedMessage());
                     }
-                    System.out.println("\nSquare root of " + operand1 + " is: " + calculator.squareRoot(operand1));
                     break;
                 case 2:
                     // Case 2 -> Factorial Function
@@ -55,12 +60,17 @@ public class Calculator {
                     System.out.print("\nEnter a Number: ");
                     try {
                         operand1 = scanner.nextDouble();
-                        logger.info("User's input for factorial: " + operand1);
+                        if (operand1 < 0) {
+                            System.err.println("Factorial of negative number is not applicable.");
+                            logger.error("Negative number given by the user for factorial function.");
+                        } else {
+                            logger.info("User's input for factorial: " + operand1);
+                            System.out.println("\nFactorial of " + operand1 + " is: " + calculator.factorial(operand1));
+                        }
                     } catch (InputMismatchException exception) {
                         logger.error("Exception while taking input: " + exception.getLocalizedMessage());
                         System.err.println(exception.getLocalizedMessage());
                     }
-                    System.out.println("\nFactorial of " + operand1 + " is: " + calculator.factorial(operand1));
                     break;
                 case 3:
                     // Case 3 -> Natural log function
@@ -68,15 +78,20 @@ public class Calculator {
                     System.out.print("\nEnter a Number: ");
                     try {
                         operand1 = scanner.nextDouble();
-                        logger.info("User's input for square root: " + operand1);
+                        if (operand1 <= 0) {
+                            System.err.println("Natural log is only applicable for positive numbers.");
+                            logger.error("Non-positive number entered by user for natural log.");
+                        } else {
+                            logger.info("User's input for natural log function: " + operand1);
+                            System.out.println("\nNatural log of " + operand1 + " is: " + calculator.naturalLog(operand1));
+                        }
                     } catch (InputMismatchException exception) {
                         logger.error("Exception while taking input: " + exception.getLocalizedMessage());
                         System.err.println(exception.getLocalizedMessage());
                     }
-                    System.out.println("\nNatural log of " + operand1 + " is: " + calculator.naturalLog(operand1));
                     break;
                 case 4:
-                    // Subtraction Case
+                    // Case 4 -> Subtraction Case
                     logger.info("Using the power function...");
                     try {
                         System.out.print("\nEnter the Number: ");
@@ -85,11 +100,16 @@ public class Calculator {
                         System.out.print("\nEnter the Power: ");
                         operand2 = scanner.nextDouble();
                         logger.info("User's input for power: " + operand2);
+                        if (operand1 <= 0 || operand2 < 0) {
+                            System.err.println("Number and Power input should be non-negative.");
+                            logger.error("Negative input given by the user for power function.");
+                        } else {
+                            System.out.println("\n" + operand1 + " power " + operand2 + " is: " + calculator.power(operand1, operand2));
+                        }
                     } catch (InputMismatchException exception) {
                         logger.error("Exception while taking input: " + exception.getLocalizedMessage());
                         System.err.println(exception.getLocalizedMessage());
                     }
-                    System.out.println("\n" + operand1 + " power " + operand2 + " is: " + calculator.power(operand1, operand2));
                     break;
                 default:
                     logger.fatal("User is exiting the calculator application.");

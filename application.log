@@ -1,0 +1,91 @@
+2023-03-30 19:52:48.923 [main] INFO  org.calculator.Calculator - Calculating 1.0! [! mean factorial].
+2023-03-30 19:52:48.948 [main] INFO  org.calculator.Calculator - Result: 1.0! = 1.0.
+2023-03-30 19:52:48.949 [main] INFO  org.calculator.Calculator - Calculating 2.0! [! mean factorial].
+2023-03-30 19:52:48.950 [main] INFO  org.calculator.Calculator - Result: 2.0! = 2.0.
+2023-03-30 19:52:48.950 [main] INFO  org.calculator.Calculator - Calculating 3.0! [! mean factorial].
+2023-03-30 19:52:48.951 [main] INFO  org.calculator.Calculator - Result: 3.0! = 6.0.
+2023-03-30 19:52:48.951 [main] INFO  org.calculator.Calculator - Calculating 4.0! [! mean factorial].
+2023-03-30 19:52:48.952 [main] INFO  org.calculator.Calculator - Result: 4.0! = 24.0.
+2023-03-30 19:52:48.953 [main] INFO  org.calculator.Calculator - Calculating 5.0! [! mean factorial].
+2023-03-30 19:52:48.953 [main] INFO  org.calculator.Calculator - Result: 5.0! = 120.0.
+2023-03-30 19:52:48.956 [main] INFO  org.calculator.Calculator - Calculating square root of 16.0.
+2023-03-30 19:52:48.959 [main] INFO  org.calculator.Calculator - Result: 16.0^0.5 = 4.0.
+2023-03-30 19:52:48.960 [main] INFO  org.calculator.Calculator - Calculating square root of 4.0.
+2023-03-30 19:52:48.960 [main] INFO  org.calculator.Calculator - Result: 4.0^0.5 = 2.0.
+2023-03-30 19:52:48.961 [main] INFO  org.calculator.Calculator - Calculating square root of 9.0.
+2023-03-30 19:52:48.962 [main] INFO  org.calculator.Calculator - Result: 9.0^0.5 = 3.0.
+2023-03-30 19:52:48.962 [main] INFO  org.calculator.Calculator - Calculating square root of 25.0.
+2023-03-30 19:52:48.963 [main] INFO  org.calculator.Calculator - Result: 25.0^0.5 = 5.0.
+2023-03-30 19:52:48.963 [main] INFO  org.calculator.Calculator - Calculating square root of 36.0.
+2023-03-30 19:52:48.964 [main] INFO  org.calculator.Calculator - Result: 36.0^0.5 = 6.0.
+2023-03-30 19:52:48.966 [main] INFO  org.calculator.Calculator - Calculating log(2.0).
+2023-03-30 19:52:48.967 [main] INFO  org.calculator.Calculator - Result: log(2.0) = 0.6931471805599453.
+2023-03-30 19:52:48.968 [main] INFO  org.calculator.Calculator - Calculating log(3.0).
+2023-03-30 19:52:48.968 [main] INFO  org.calculator.Calculator - Result: log(3.0) = 1.0986122886681098.
+2023-03-30 19:52:48.969 [main] INFO  org.calculator.Calculator - Calculating log(4.0).
+2023-03-30 19:52:48.970 [main] INFO  org.calculator.Calculator - Result: log(4.0) = 1.3862943611198906.
+2023-03-30 19:52:48.970 [main] INFO  org.calculator.Calculator - Calculating log(5.0).
+2023-03-30 19:52:48.971 [main] INFO  org.calculator.Calculator - Result: log(5.0) = 1.6094379124341003.
+2023-03-30 19:52:48.971 [main] INFO  org.calculator.Calculator - Calculating log(6.0).
+2023-03-30 19:52:48.972 [main] INFO  org.calculator.Calculator - Result: log(6.0) = 1.791759469228055.
+2023-03-30 19:52:48.973 [main] INFO  org.calculator.Calculator - Calculating square root of 16.0.
+2023-03-30 19:52:48.973 [main] INFO  org.calculator.Calculator - Result: 16.0^0.5 = 4.0.
+2023-03-30 19:52:48.974 [main] INFO  org.calculator.Calculator - Calculating square root of 4.0.
+2023-03-30 19:52:48.974 [main] INFO  org.calculator.Calculator - Result: 4.0^0.5 = 2.0.
+2023-03-30 19:52:48.975 [main] INFO  org.calculator.Calculator - Calculating square root of 9.0.
+2023-03-30 19:52:48.976 [main] INFO  org.calculator.Calculator - Result: 9.0^0.5 = 3.0.
+2023-03-30 19:52:48.976 [main] INFO  org.calculator.Calculator - Calculating square root of 25.0.
+2023-03-30 19:52:48.976 [main] INFO  org.calculator.Calculator - Result: 25.0^0.5 = 5.0.
+2023-03-30 19:52:48.977 [main] INFO  org.calculator.Calculator - Calculating square root of 36.0.
+2023-03-30 19:52:48.977 [main] INFO  org.calculator.Calculator - Result: 36.0^0.5 = 6.0.
+2023-03-30 19:52:48.979 [main] INFO  org.calculator.Calculator - Calculating log(2.0).
+2023-03-30 19:52:48.979 [main] INFO  org.calculator.Calculator - Result: log(2.0) = 0.6931471805599453.
+2023-03-30 19:52:48.980 [main] INFO  org.calculator.Calculator - Calculating log(3.0).
+2023-03-30 19:52:48.980 [main] INFO  org.calculator.Calculator - Result: log(3.0) = 1.0986122886681098.
+2023-03-30 19:52:48.981 [main] INFO  org.calculator.Calculator - Calculating log(4.0).
+2023-03-30 19:52:48.981 [main] INFO  org.calculator.Calculator - Result: log(4.0) = 1.3862943611198906.
+2023-03-30 19:52:48.982 [main] INFO  org.calculator.Calculator - Calculating log(5.0).
+2023-03-30 19:52:48.982 [main] INFO  org.calculator.Calculator - Result: log(5.0) = 1.6094379124341003.
+2023-03-30 19:52:48.983 [main] INFO  org.calculator.Calculator - Calculating log(6.0).
+2023-03-30 19:52:48.983 [main] INFO  org.calculator.Calculator - Result: log(6.0) = 1.791759469228055.
+2023-03-30 19:52:48.984 [main] INFO  org.calculator.Calculator - Calculating 1.0! [! mean factorial].
+2023-03-30 19:52:48.985 [main] INFO  org.calculator.Calculator - Result: 1.0! = 1.0.
+2023-03-30 19:52:48.985 [main] INFO  org.calculator.Calculator - Calculating 2.0! [! mean factorial].
+2023-03-30 19:52:48.986 [main] INFO  org.calculator.Calculator - Result: 2.0! = 2.0.
+2023-03-30 19:52:48.986 [main] INFO  org.calculator.Calculator - Calculating 3.0! [! mean factorial].
+2023-03-30 19:52:48.994 [main] INFO  org.calculator.Calculator - Result: 3.0! = 6.0.
+2023-03-30 19:52:48.994 [main] INFO  org.calculator.Calculator - Calculating 4.0! [! mean factorial].
+2023-03-30 19:52:48.995 [main] INFO  org.calculator.Calculator - Result: 4.0! = 24.0.
+2023-03-30 19:52:48.995 [main] INFO  org.calculator.Calculator - Calculating 5.0! [! mean factorial].
+2023-03-30 19:52:48.996 [main] INFO  org.calculator.Calculator - Result: 5.0! = 120.0.
+2023-03-30 19:52:48.998 [main] INFO  org.calculator.Calculator - Calculating 1.0^2.0.
+2023-03-30 19:52:49.033 [main] INFO  org.calculator.Calculator - Result: 1.0^2.0 = 1.0.
+2023-03-30 19:52:49.034 [main] INFO  org.calculator.Calculator - Calculating 2.0^2.0.
+2023-03-30 19:52:49.035 [main] INFO  org.calculator.Calculator - Result: 2.0^2.0 = 4.0.
+2023-03-30 19:52:49.036 [main] INFO  org.calculator.Calculator - Calculating 3.0^2.0.
+2023-03-30 19:52:49.036 [main] INFO  org.calculator.Calculator - Result: 3.0^2.0 = 9.0.
+2023-03-30 19:52:49.043 [main] INFO  org.calculator.Calculator - Calculating 4.0^2.0.
+2023-03-30 19:52:49.044 [main] INFO  org.calculator.Calculator - Result: 4.0^2.0 = 16.0.
+2023-03-30 19:52:49.044 [main] INFO  org.calculator.Calculator - Calculating 5.0^2.0.
+2023-03-30 19:52:49.045 [main] INFO  org.calculator.Calculator - Result: 5.0^2.0 = 25.0.
+2023-03-30 19:52:49.046 [main] INFO  org.calculator.Calculator - Calculating 1.0^2.0.
+2023-03-30 19:52:49.049 [main] INFO  org.calculator.Calculator - Result: 1.0^2.0 = 1.0.
+2023-03-30 19:52:49.050 [main] INFO  org.calculator.Calculator - Calculating 2.0^2.0.
+2023-03-30 19:52:49.051 [main] INFO  org.calculator.Calculator - Result: 2.0^2.0 = 4.0.
+2023-03-30 19:52:49.051 [main] INFO  org.calculator.Calculator - Calculating 3.0^2.0.
+2023-03-30 19:52:49.052 [main] INFO  org.calculator.Calculator - Result: 3.0^2.0 = 9.0.
+2023-03-30 19:52:49.052 [main] INFO  org.calculator.Calculator - Calculating 4.0^2.0.
+2023-03-30 19:52:49.052 [main] INFO  org.calculator.Calculator - Result: 4.0^2.0 = 16.0.
+2023-03-30 19:52:49.057 [main] INFO  org.calculator.Calculator - Calculating 5.0^2.0.
+2023-03-30 19:52:49.058 [main] INFO  org.calculator.Calculator - Result: 5.0^2.0 = 25.0.
+2023-03-30 19:55:04.799 [main] INFO  org.calculator.Calculator - Starting the Calculator Application.
+2023-03-30 19:55:04.810 [main] INFO  org.calculator.Calculator - Showing the options to the user.
+2023-03-30 19:55:07.020 [main] INFO  org.calculator.Calculator - User's choice is: 1
+2023-03-30 19:55:07.020 [main] INFO  org.calculator.Calculator - Using square root function...
+2023-03-30 19:55:08.685 [main] ERROR org.calculator.Calculator - Non-Positive number added by the user for square root function.
+2023-03-30 19:55:08.685 [main] INFO  org.calculator.Calculator - Showing the options to the user.
+2023-03-30 19:55:10.603 [main] INFO  org.calculator.Calculator - User's choice is: 2
+2023-03-30 19:55:10.604 [main] INFO  org.calculator.Calculator - Using the factorial function...
+2023-03-30 19:55:13.101 [main] ERROR org.calculator.Calculator - Exception while taking input: null
+2023-03-30 19:55:13.102 [main] INFO  org.calculator.Calculator - Showing the options to the user.
+2023-03-30 19:55:13.103 [main] ERROR org.calculator.Calculator - Exception while taking input from user: null
