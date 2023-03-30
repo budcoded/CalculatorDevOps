@@ -24,8 +24,10 @@ pipeline {
             }
         }
         stage ('Copy Log File') {
-            sh 'docker start AjayCalc'
-            sh 'echo 14plmn75 | sudo -s docker cp AjayCalc:application.log /home/budcoded/Desktop'
+            steps {
+                sh 'docker start AjayCalc'
+                sh 'echo 14plmn75 | sudo -s docker cp AjayCalc:application.log /home/budcoded/Desktop'
+            }
         }
         stage ('Docker Container Delete') {
             steps {
