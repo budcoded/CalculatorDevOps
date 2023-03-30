@@ -23,7 +23,13 @@ pipeline {
                 sh 'docker push budcoded/calculator:latest'
             }
         }
-        stage('Deploy and Run Image'){
+        stage ('Docker Contaier Delete') {
+            steps {
+                sh 'docker stop AjayCalc || true'
+                sh 'docker rm AjayCalc || true'
+            }
+        }
+        stage ('Deploy and Run Image') {
             steps {
                 sh 'ansible-playbook -i inventory playbook.yml'
             }
