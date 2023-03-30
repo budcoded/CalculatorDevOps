@@ -23,7 +23,11 @@ pipeline {
                 sh 'docker push budcoded/calculator:latest'
             }
         }
-        stage ('Docker Contaier Delete') {
+        stage ('Copy Log File') {
+            sh 'docker start AjayCalc'
+            sh 'echo 14plmn75 | sudo -s docker cp AjayCalc:application.log /home/budcoded/Desktop'
+        }
+        stage ('Docker Container Delete') {
             steps {
                 sh 'docker stop AjayCalc || true'
                 sh 'docker rm AjayCalc || true'
