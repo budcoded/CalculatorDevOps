@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="8" failures="0" name="CalculatorTest" time="3.017" errors="0" skipped="0">
+<testsuite tests="8" failures="0" name="CalculatorTest" time="6.529" errors="0" skipped="0">
   <properties>
     <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
     <property name="java.vm.version" value="11.0.18+10-post-Ubuntu-0ubuntu122.04"/>
@@ -32,7 +32,7 @@
     <property name="java.class.version" value="55.0"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
-    <property name="os.version" value="5.19.0-35-generic"/>
+    <property name="os.version" value="5.19.0-38-generic"/>
     <property name="library.jansi.path" value="/usr/share/maven/lib/jansi-native"/>
     <property name="user.home" value="/home/budcoded"/>
     <property name="user.timezone" value="Asia/Kolkata"/>
@@ -60,12 +60,12 @@
     <property name="sun.desktop" value="gnome"/>
     <property name="sun.cpu.isalist" value=""/>
   </properties>
-  <testcase classname="CalculatorTest" name="factorialFalsePositive" time="2.902"/>
-  <testcase classname="CalculatorTest" name="squareRootTruePositive" time="0.002"/>
-  <testcase classname="CalculatorTest" name="naturalLogTruePositive" time="0.008"/>
-  <testcase classname="CalculatorTest" name="squareRootFalsePositive" time="0.015"/>
+  <testcase classname="CalculatorTest" name="factorialFalsePositive" time="6.377"/>
+  <testcase classname="CalculatorTest" name="squareRootTruePositive" time="0.035"/>
+  <testcase classname="CalculatorTest" name="naturalLogTruePositive" time="0.01"/>
+  <testcase classname="CalculatorTest" name="squareRootFalsePositive" time="0.006"/>
   <testcase classname="CalculatorTest" name="naturalLogFalsePositive" time="0.012"/>
-  <testcase classname="CalculatorTest" name="factorialTruePositive" time="0.018"/>
-  <testcase classname="CalculatorTest" name="powerFalsePositive" time="0.052"/>
-  <testcase classname="CalculatorTest" name="powerTruePositive" time="0.008"/>
+  <testcase classname="CalculatorTest" name="factorialTruePositive" time="0.01"/>
+  <testcase classname="CalculatorTest" name="powerFalsePositive" time="0.074"/>
+  <testcase classname="CalculatorTest" name="powerTruePositive" time="0.005"/>
 </testsuite>
