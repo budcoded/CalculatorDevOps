@@ -9,7 +9,7 @@ import java.util.Scanner;
 public class Calculator {
     private static final Logger logger = LogManager.getLogger(Calculator.class);
     public static void main(String[] args) {
-        // Starting of calculator work...
+        // Starting of calculator work....
         logger.info("Starting the Calculator Application.");
         Calculator calculator = new Calculator();
         Scanner scanner = new Scanner(System.in);
