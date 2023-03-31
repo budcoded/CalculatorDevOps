@@ -13,6 +13,7 @@ public class Calculator {
         logger.info("Starting the Calculator Application.");
         Calculator calculator = new Calculator();
         Scanner scanner = new Scanner(System.in);
+        // Performing the tasks...
         do {
             logger.info("Showing the options to the user.");
             System.out.println("***** CALCULATOR DEVOPS *****");
