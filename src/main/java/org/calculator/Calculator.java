@@ -10,6 +10,7 @@ public class Calculator {
     private static final Logger logger = LogManager.getLogger(Calculator.class);
     public static void main(String[] args) {
         // Starting of calculator work...
+        // Dummy commit for webhook
         logger.info("Starting the Calculator Application.");
         Calculator calculator = new Calculator();
         Scanner scanner = new Scanner(System.in);
