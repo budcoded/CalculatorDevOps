@@ -120,6 +120,12 @@ public class Calculator {
         } while (true);
     }
 
+    /***
+     * This function calculates the power of a number.
+     * @param operand1 -> is the number that is given by the user.
+     * @param operand2 -> is the power that is to be calculated.
+     * @return -> returns (operand1 ^ operand2)
+     */
     public double power(double operand1, double operand2) {
         logger.info("Calculating " + operand1 + "^" + operand2 + ".");
         double res = Math.pow(operand1, operand2);
