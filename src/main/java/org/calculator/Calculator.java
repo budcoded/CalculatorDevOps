@@ -14,7 +14,6 @@ public class Calculator {
         Calculator calculator = new Calculator();
         Scanner scanner = new Scanner(System.in);
         // Performing the tasks...
-        // Dummy webhook testing...
         do {
             logger.info("Showing the options to the user.");
             System.out.println("***** CALCULATOR DEVOPS *****");
