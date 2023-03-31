@@ -124,7 +124,7 @@ public class Calculator {
      * This function calculates the power of a number.
      * @param operand1 -> is the number that is given by the user.
      * @param operand2 -> is the power that is to be calculated.
-     * @return -> returns (operand1 ^ operand2)
+     * @return -> (operand1 ^ operand2).
      */
     public double power(double operand1, double operand2) {
         logger.info("Calculating " + operand1 + "^" + operand2 + ".");
@@ -133,6 +133,11 @@ public class Calculator {
         return res;
     }
 
+    /***
+     * This function calculates natural log (base e) of given number.
+     * @param operand -> Input number given by the user.
+     * @return -> the natural log of the given number.
+     */
     public double naturalLog(double operand) {
         logger.info("Calculating log(" + operand + ").");
         double res = Math.log(operand);
@@ -140,6 +145,11 @@ public class Calculator {
         return res;
     }
 
+    /***
+     * This function calculates factorial of a given number.
+     * @param operand -> a number provided by the user.
+     * @return -> factorial of the provided number by the user.
+     */
     public double factorial(double operand) {
         logger.info("Calculating " + operand + "! [! mean factorial].");
         double res = 1;
@@ -150,6 +160,11 @@ public class Calculator {
         return res;
     }
 
+    /***
+     * This function calculates square root of a given number.
+     * @param operand -> an input given by the user.
+     * @return -> square root of the number provided by the user.
+     */
     public double squareRoot(double operand) {
         logger.info("Calculating square root of " + operand + ".");
         double res = Math.sqrt(operand);
